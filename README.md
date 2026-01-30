@@ -49,25 +49,103 @@ Em um mundo onde os recursos são escassos, a **The Last Pizza** trabalha apenas
 - Catupiry  
 
 ### 🍕 Sabores
-- 4 Queijos  
-- Frango com Catupiry  
-- Toscana  
-- Portuguesa  
-- Margherita  
-- Pizza da Casa  
+- Os Vagalumes
+- Os Lobos (WLF) 
+- A cura 
+- Zona de quarentena 
+- Joel
+- Cordyceps (A Infectada)  
+
+---
+## 🍕 Os Vagalumes
+
+**Tema:** Esperança e resistência.
+
+**Ingredientes:**
+- Molho branco  
+- Muçarela  
+- Frango desfiado  
+- Brócolis  
+- Alho dourado  
+
+**Visual:**  
+Cores mais claras e verdes, simbolizando esperança e luta por um futuro melhor.
+
+## 🍕 Os Lobos (WLF)
+
+**Tema:** Força, controle e brutalidade.
+
+**Ingredientes:**
+- Molho de tomate apimentado  
+- Muçarela  
+- Carne bovina desfiada ou carne de sol  
+- Calabresa  
+- Cebola roxa  
+- Pimenta calabresa
+- **Visual:**  
+Pizza pesada e intensa, com aparência forte e carregada, representando o estilo agressivo e militar dos Lobos.
+
+---
+ ## 🍕 A Cura
+
+**Tema:** Esperança, resistência e o futuro da humanidade.
+
+**Ingredientes:**
+- Molho de tomate rústico  
+- Muçarela  
+- Frango desfiado  
+- Milho  
+- Cebola roxa  
+- Orégano  
+
+**Visual:**  
+Pizza equilibrada, com aparência simples, mas cheia de significado — representando a esperança em meio ao caos e a possibilidade de um novo começo.
+
+> *“Mesmo em um mundo destruído, ainda existe algo pelo qual vale a pena lutar.”*
+
+ ## 🍕 Zona de Quarentena
+
+**Tema:** Escassez e sobrevivência.
+
+**Ingredientes:**
+- Molho de tomate  
+- Muçarela  
+- Presunto  
+- Ovo  
+- Azeitona  
+
+**Visual:**  
+Pizza simples, com poucos ingredientes, representando a limitação de recursos nas zonas de quarentena.
+
+---
+## 🍕 Joel
+
+**Tema:** Força, proteção e tradição.
+
+**Ingredientes:**
+- Molho de tomate  
+- Muçarela  
+- Calabresa artesanal  
+- Bacon  
+- Cebola caramelizada  
+
+**Visual:**  
+Pizza robusta e bem recheada, transmitindo segurança e intensidade.
 
 ---
 
-## 🍕 Pizza da Casa — Queijo com Cogumelos
+ ## 🍕 Cordyceps (A Infectada)
 
-Uma criação especial da **The Last Pizza**, inspirada no clima pós-apocalíptico.
+A **Cordyceps (A Infectada)** combina:
 
-A **Pizza da Casa** combina:
 - 🧀 Queijo derretido  
 - 🍄 Cogumelos (Shimeji)  
 - 🥩 Carne seca  
 
-Uma pizza robusta, que representa resistência, adaptação e sobrevivência em um mundo dominado pelo caos.
+**Tema:** O vírus, o caos e a mutação do mundo.
 
-> Em um mundo afetado pelo Cordyceps, apenas os sabores mais fortes sobrevivem.  
-> Escolha sua pizza e continue a jornada.
+**Visual:**  
+Pizza robusta, com ingredientes espalhados de forma irregular, remetendo ao crescimento do fungo Cordyceps e à desordem do mundo infectado.
+
+> *"Em um mundo afetado pelo Cordyceps, apenas os sabores mais fortes sobrevivem.  
+> Escolha sua pizza e continue a jornada."*
